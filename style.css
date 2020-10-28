@@ -34,7 +34,7 @@ details {
 
 
 div p {
-
+  display: block;
   background-color: lightblue;
   width: 25%;
   display: block;
